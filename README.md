@@ -1,4 +1,0 @@
-MyGitHub
-========
-
-MyGitHub Repository
